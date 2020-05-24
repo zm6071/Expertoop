@@ -1,6 +1,6 @@
 <?php
 
-namespace Inc;
+namespace Inc\Base;
 
 class Activate {
    public static function activate_plugin() {
