@@ -1,0 +1,19 @@
+{
+  "name": "zx/hk",
+  "description": ".",
+  "type": "project",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "zm",
+      "email": "zm.6071@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Inc\\": "./inc"
+    }
+  }
+}
